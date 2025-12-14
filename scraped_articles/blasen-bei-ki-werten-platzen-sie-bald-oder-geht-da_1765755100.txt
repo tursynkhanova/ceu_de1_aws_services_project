@@ -1,0 +1,33 @@
+[[Language Code: de]]
+
+Veröffentlicht am 19. November 2025
+Artikel
+Blasen bei KI-Werten: Platzen sie bald, oder geht da noch was?
+Die zahlreichen Schlagzeilen, die in dieser Woche vor einer KI-Blase warnen, haben das Potenzial, Anlegerinnen und Anleger nervös zu machen.
+Blasen bei KI-Werten: Platzen sie bald, oder geht da noch was? (Optik: Michel Becker | ChatGPT)
+Warum das wichtig ist?
+„An den globalen Märkten geht die Angst vor einem hässlichen Déjà-vu um“, schreiben die Handelsblatt-Finanzexperten Astrid Dörner und Michael Maisch in einer großen Analyse. Vieles erinnere gerade an die dramatische Börsenentwicklung vor 25 Jahren: Wieder schössen Tech-Aktien in die Höhe, wieder fließe Kapital in alles, was nach Zukunft klingt. Die Wall Street taumele zwischen Hype und Furcht. Und sie fragen: Wiederholt sich mit dem Boom um Künstliche Intelligenz die Geschichte der Internetblase?
+Anlass zu solchen Überlegungen gab es in den vergangenen Tagen vor allem aus drei Gründen:
+Erstens
+hat der Chipkonzern Nvidia als erstes börsennotiertes Unternehmen am Mittwoch eine Marktkapitalisierung von fünf Billionen Dollar erreicht. Seit dem Start von ChatGPT im Herbst 2022 hat sich der Aktienkurs des Unternehmens nun vervierzehnfacht. Das wirft die Frage auf, wie lange das noch so weitergeht. Schließlich hängt der Hype um das Unternehmen direkt mit den Erwartungen an die KI-Revolution zusammen – und die geht mit Blick auf Einsparungen und Wertschöpfung langsamer voran, als viele gehofft haben.
+Zweitens
+haben diese Woche gleich mehrere große Technologiekonzerne ihre Zahlen vorgelegt: Bei solchen Anlässen müssen die Chefs von Microsoft, Amazon, Meta und der Google-Mutter Alphabet zunehmend ihre KI-Investitionen vor Analysten verteidigen. Schließlich wollen US-Konzerne im laufenden Jahr insgesamt 400 Milliarden Dollar in den Aus- und Aufbau von KI-Rechenzentren stecken. Dabei treibt sie wohl mehr der Wettbewerb untereinander als eine klare Aussicht auf steigende Gewinne. Und das macht Analysten nervös.
+Drittens
+werden die Verflechtungen der KI-Unternehmen untereinander immer enger und führen zu einem systemischen Risiko: Allen voran Nvidia ist für viele andere Protagonisten im KI-Boom einer der wichtigsten Investoren und nährt die Nachfrage nach seinen Chips damit selbst. Das Phänomen ist auch nicht neu. Doch Nvidias Ankündigung, bis zu 100 Milliarden Dollar in Rechenzentren von OpenAI investieren zu wollen, war jüngst ein Vorstoß in völlig neue Dimensionen.
+Nvidia-Chef Jensen Huang: Sein Konzern ist mit den meisten großen KI-Akteuren eng verflochten. (Foto: Manuel Balce Ceneta/AP/dpa)
+Nun sind all das klare Indizien für eine Überhitzung. Was die Parallelen zur Internetblase angeht,
+ist die Lage allerdings eindeutig uneindeutig.
+Einige Experten kommen in ihrer Analyse jedenfalls zu dem Schluss, dass es derzeit mehr Unterschiede als Gemeinsamkeiten zur Blasenentwicklung Ende der 1990er-Jahre gibt.
+Der Wichtigste:
+Damals konnten ebenso junge wie defizitäre Unternehmen ihr Geld an der Börse fast schon damit einsammeln, dass sie Investoren eine „.com“-Internetadresse vorzeigten. Entsprechend haben nur wenige von ihnen das Platzen der entsprechend als Dotcom-Bubble bezeichneten Blase überlebt.
+Wenn wir uns heute anschauen, wer den KI-Hype treibt, sind das vor allem profitable Tech-Konzerne wie Microsoft oder Amazon. Denen droht mit einem Platzen der Blase ein möglicherweise empfindlicher Kurseinbruch, aber nicht das Ende.
+Was nun Ihre Anlagestrategie angeht, sollten Sie besser sicherstellen, dass dasselbe gilt.
+Laut Spiegel würde bei einem großen Absturz die Aktienkurse der sogenannten „Magnificent Seven“ um 70 Prozent einbrechen.
+Gemeint sind die großen Technologiekonzerne Apple, Microsoft, Alphabet, Amazon, Meta, Nvidia und Tesla, bei denen große Kurseinbrüche auch andere Unternehmen mitreißen würden. Binnen zwölf Monaten könnte es so zu einem großen Abverkauf kommen, der auch alle anderen Titel um 30 Prozent fallen lassen würde. Unter dem Strich würde der MSCI World in diesem Szenario knapp 40 Prozent einbüßen.
+Informationen rund um dieses Thema finden Sie
+hier
+.
+Dieser Beitrag erschien in unserem KI-Newsletter. Wenn Sie mehr solcher Artikel lesen möchten, abonnieren Sie gerne das KI-Briefing
+hier
+.
+Jetzt KI Circle Mitglied werden

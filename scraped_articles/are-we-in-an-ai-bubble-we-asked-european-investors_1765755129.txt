@@ -1,0 +1,198 @@
+[[Language Code: en]]
+
+Join here
+CEE VC SUMMIT 2026
+Join the biggest, invitation-only event for VC fund managers in CEE!
+Join here
+Join here
+News
+Insights
+Events
+Platform
+News
+Insights
+Events
+Vestbee Platform
+November 20, 2025
+·
+11 min read
+Katarzyna Groszkowska & Lisa Palchynska
+Vestbee
+Are we in an AI bubble? We asked European investors
+AI has dominated technology coverage this year, and the debate around its economic trajectory has only intensified as valuations continue to climb. The sector’s leading companies have reached levels that would have seemed implausible just a year ago: OpenAI’s valuation has surged to $500 billion from $157 billion last October, and Anthropic has gone from $60 billion in March to over
+$350 billion
+just nine months later.
+The impact isn’t confined to private valuations. It’s now reshaping the macro picture as well. Thus, in the first half of 2025, AI-related capital spending
+overtook
+US consumers as the largest contributor to growth, adding an estimated 1.1% to GDP. JP Morgan Asset Management
+estimates
+that since late 2022, AI-linked stocks have accounted for three-quarters of S&P 500 returns and most of the index’s earnings and capex growth.
+Given these trends, it is natural that questions arise about how sustainable the AI rally really is — a pattern often seen as the early stage of bubbles. And the warnings aren’t coming from the sidelines: the Bank of England has
+warned
+of the risk of a sharp correction, and analysts across research firms, investment houses, and even the
+AI industry itself
+have raised
+concerns
+about valuations running ahead of commercial traction.
+To understand whether we’re witnessing sustainable growth or signs of an AI bubble, Vestbee spoke with four European VCs — vastpoint, Early Game Ventures, Flyer One Ventures, and J&T Ventures to ground the debate on what they see in the European market.
+What is a bubble, and why is the AI case more complicated
+Historically, bubbles form when prices break away from underlying business fundamentals and become overly inflated, usually driven by investor optimism and self-reinforcing bets. Rising valuations attract more capital, which drives prices even further from realistic expectations, and the bubble grows like a snowball. This dynamic is nothing new, as technology markets have gone through such cycles before. The
+dot-com boom of the late 1990s
+saw online companies scale and list long before proving business viability. When sentiment turned in 2000, the Nasdaq fell by roughly 75% over two years, and most of the period’s high-profile startups shut down.
+A more recent example was the post-pandemic surge in tech funding: European startups raised a record
+$121 billion in 2021
+, before investor optimism cooled and funding returned to more normal levels, falling to
+$52 billion by 2023
+.
+There is a growing discussion that today’s AI market may be showing familiar warning signs — valuations disconnected from revenue, large volumes of speculative capital, and a narrative of inevitable transformation that is hard to measure in real demand. However, investors caution that the picture is far more complex than simply declaring "a bubble."
+The AI stack moves at different speeds
+Several of the European VCs we spoke to stress that the AI market cannot be treated as a single category. The stack is fragmented, and each layer behaves differently. Aleksandra Pedraszewska, Partner at vastpoint, notes:
+“
+There is certainly bubble-like activity in the race to build foundational models, which is a natural, while intense, phase of infrastructure build-out,
+” she says. “
+However, at the application layer where most European startups operate, it's not a bubble but a fundamental platform shift, akin to the dawn of mobile. A correction in the infrastructure layer is possible, but the value created in the application layer will be real and enduring
+.”
+Flyer One Ventures’ Partner Elena Mazhuha extends this idea, highlighting that most of the speculative excess is clustered in one layer rather than across the whole stack.
+“A lot of teams basically built a chat interface on top of the same model everyone else uses,”
+she says.
+“And if the next GPT update can do the same thing out of the box, such companies won’t survive.”
+This is where a clearer picture begins to form: talk of an "AI bubble" is too simplistic, because different layers of the ecosystem are maturing at very different speeds.
+Why the top of the stack looks overheated
+Cristian Munteanu, Partner at Early Game Ventures, argues that what looks like overheating in foundation models is often a misunderstanding of how capital-intensive AI infrastructure really is:
+"I don’t think any part of the AI ecosystem is genuinely overfunded yet. The massive investments in infrastructure and the mega-rounds going into foundational models look extreme if you compare them to a normal software cycle, but this isn’t a normal cycle. Standing up global-scale compute, storage, and training capacity is capital-intensive by definition."
+But not all of the capital flowing into the top of the stack reflects essential infrastructure. Managing Partner Adam Kocik and Principal Zuzana Ondrejova of J&T Ventures point to a different source of overheating: money clustering around look-alike products with limited defensibility.
+“We’ve seen large amounts of money chase very similar ideas — many companies offering comparable chatbot interfaces or thin wrappers around existing models. Valuations in these categories often assume defensibility that hasn’t yet been proven.”
+So the top of the stack looks overheated because real infrastructure is expensive by nature, while waves of look-alike apps make it seem more speculative than it is.
+Not a bubble, but an infrastructure-building phase
+While many investors point to overheating in certain market segments, others argue that the current dynamics shouldn’t be interpreted through a speculative lens. Managing Partner Adam Kocik and Principal Zuzana Ondrejova of J&T Ventures see today’s environment more as a normal infrastructure-building phase:
+”
+Massive investment is required to unlock the long-term potential of AI, and that can temporarily distort prices. This period is laying the groundwork for a multi-decade transformation, and we’re still at the very beginning of the value creation curve.
+”
+What is more, some of these investment patterns that critics describe as circular could also be seen as a supply-chain coordination. Chipmakers, model developers, and hyperscalers rely on one another, so they use cross-ownership and strategic stakes to secure components, steady demand, and shorten development time. Nvidia and OpenAI are reinforcing their supply lines much like earlier hardware players did when they integrated key technologies to avoid bottlenecks.
+Meanwhile, the growing infrastructure base is already pushing costs down. Each new data-center generation improves utilization, lowers the marginal cost of training, and speeds up iteration, enabling cheaper compute and new applications.
+Profitability concerns are also typical for foundational technologies. Cloud, mobile, and broadband all required heavy upfront investment before their economics settled. Early AI productivity gains are already visible as companies using code-generation tools, automation, and domain-specific copilots report reduced workloads.
+Antler’s Magnus Grimeland
+argues
+that this cycle differs from past booms because enterprises adopted AI far faster than they did cloud, with demand emerging immediately across industries. Stretched valuations, he notes, are normal in early buildout phases.
+Among dedicated AI investors, sentiment remains optimistic. Cristian Munteanu from Early Game Ventures puts it simply:
+“People close to the technology see how powerful it is and how far it can go in reshaping industries and knowledge work. Valuations are more disciplined than during the first hype spike, but conviction in the underlying trend is stronger. You don’t look at systems that can already draft code, contracts, and designs and think, ‘this disappears in two years.’”
+For him, the idea that “
+AI is just a fad
+” usually comes from outside the tech world. “
+We are living in the era of AI — in the strict sense of a period defined by transformative technology. Once humanity discovered fire, it didn’t later decide to stop using it; AI is the same kind of shift. You can debate which companies will win, but not whether the technology will fade.”
+Where the real funding gap lies
+But investors also point to where the real gaps lie — not at the top of the stack, but deeper down. Munteanu highlights how the imbalance shifts once you move away from the foundation layer:
+“If anything, the system is underfunded further down the value chain. The application layer needs more patient capital for the thousands of experiments that will turn today’s infrastructure into real products and category leaders.”
+Kocik and Ondrejova point to the same undercapitalized segments:
+“Infrastructure layers like domain-specific data pipelines, privacy and security tooling, edge deployment, and optimized hardware and inference frameworks remain significantly underfunded. We also see major potential in vertical-specific AI, where proprietary data and deep workflow knowledge create real moats.”
+Pedraszewska adds a geographic angle. The US race for general-purpose models and hyperscale infrastructure is, in her view, the most heavily funded part of the market — a game for only a few giants. The stronger opportunities lie elsewhere: in high-value, domain-specific B2B workflows outside Silicon Valley. Biotech, industrial automation, and enterprise software still have plenty of room to grow, but receive only a fraction of today’s capital.
+How Big Tech’s AI boom in the US is impacting Europe
+A significant part of the industry’s acceleration is driven by a small group of American companies whose financial relationships have become unusually tight. Nvidia invests in firms that rely on its chips; OpenAI signs huge cloud contracts with providers that then buy more Nvidia hardware; and those providers raise new capital on the back of workloads from labs like OpenAI. The result is a feedback loop in which equity ties, supply deals, and concentrated revenue push the same few players forward.
+Some analysts warn that this concentration can skew the market. Yale SOM’s Jeffrey Sonnenfeld and Stephen Henriques
+argue
+that the increasingly dense web of deals among hyperscalers and AI labs resembles earlier episodes of overinvestment into a very small number of firms growing larger and larger, setting the pace for the entire market. Bloomberg has
+called the pattern
+an “interconnected web of transactions” powering a trillion-dollar run-up.
+But while this cycle shapes the global narrative, Europe’s experience is fundamentally different. Aleksandra Pedraszewska describes the dynamic as validating rather than overhyped:
+“The mega-valuations in the US are primarily concentrated in the foundational model and infrastructure layers, creating a tide of capital that certainly lifts the global ecosystem. In Europe, and especially in Poland, the impact is felt less as direct valuation inflation and more as a validation of the entire category.
+Founders here aren't raising massive, speculative infrastructure rounds; they are benefiting from the increased availability of powerful, open-source models, which allows them to build capital-efficiently on top of the new stack. So while the US capital wave raises awareness and opportunity, the European market, particularly at the pre-seed stage, remains more disciplined and focused on real-world applications.”
+Cristian Munteanu is even more direct: almost none of the US mega-capital crosses the Atlantic. “
+The main ones who actually feel the impact here are end customers, not founders or VCs.
+” Instead of inflated term sheets, European startups gain access to better tools — cheaper compute and more powerful models — enabling them to build faster and more efficiently.
+These perspectives highlight deeper structural limits within the European VC market. As Munteanu puts it, "
+Europe is still not copying the US playbook. You don’t see $100M+ seed extensions or the appetite to fund huge losses. Funds are smaller, governance is tighter, LPs are more conservative, and regulators are more present — all of which keep valuations and round sizes more disciplined, even in AI."
+Completing the picture, Elena Mazhuha adds that Europe is beginning to close the gap with high-profile rounds — such as Mistral’s €1.7 billion Series C and Nscale’s €958 million Series B — but these deals are still far fewer and smaller than their US counterparts.
+The potential market correction and what investors expect next
+Most analysts
+expect
+the AI boom to cool gradually rather than crash. Historically, major technology bubbles rarely destroyed the underlying platform: the railway crash of the 1840s still left Europe with transformative rail networks, while the dot-com bust paved the way for Amazon and the modern internet.
+European investors share this long-term view. As J&T Ventures’ Adam Kocik and Zuzana Ondrejova anticipate a shakeout “mainly for businesses without real defensibility or clear commercial traction,” many are likely to disappear as funding tightens. Their evaluation framework has become stricter: protected technology over “
+thin wrappers on open-source models
+,” credible routes to sustainable economics, and early commercial pull. When a startup shows real technical strength and customers are ready to implement and scale, they believe the valuation is justified.
+Across the funds we spoke with, the mood is similar: positive, but more selective. AI still represents the largest pool of commercial and exit opportunities, and as Aleksandra Pedraszewska from vastpoint puts it, current sentiment is one of
+“focused excitement
+.”
+Taken together, these signals suggest a correction that trims excess rather than unwinds the cycle. The likely outcome is a smaller cohort of better-funded, more resilient AI companies — and an industry that keeps expanding even as the early hype fades.
+Analysis
+#Venture capital
+#Editor's pick
+November 20, 2025
+Latest news
+Dec 12
+PFR Ventures invests €62M in four new VC funds to support Polish startups
+Dec 12
+Swedish energy innovator firm Elvy secures €500M to expand next-gen home power systems
+Dec 12
+Mollie acquires GoCardless for €1.1B to form €3B European payments group
+Dec 11
+Ghent-based firm OTIV secures €9M to power rail automation
+Dec 11
+German firm Zentio raises €1.4M to revolutionise AI-native production planning
+Explore more
+Editor's pick
+Dec 09
+Promising fintech startups to watch, according to investors
+Nov 20
+Are we in an AI bubble? We asked European investors
+Oct 15
+Europe raises record $1.5B for defence tech. Why is it still behind the US in the VC race?
+Oct 08
+Not just Lovable: who and how is driving the vibe coding revolution in AI economy
+Sep 17
+EU AI Act takes effect, and startups push back. Here's what you need to know
+Explore more
+Newsletter
+Subscribe
+I agree my personal data will be stored and processed for online communication read more
+read more
+Related posts
+Explore more
+List of European VC funds investing in AI startups
+An up-to-date list of the most active venture capital firms investing in AI startups across Europe.
+Promising fintech startups to watch, according to investors
+Speedinvest, Startup Wise Guys, Earlybird, Serena, and Eleven share their picks of noteworthy fintech startups.
+Top European funding rounds closed in November 2025
+Meet startups and scaleups from Europe that closed funding rounds in November 2025.
+Latest news
+Explore more
+PFR Ventures invests €62M in four new VC funds to support Polish startups
+The new funds are supported primarily by PFR Ventures through capital from the European Funds for a Modern Economy (FENG) programme, with additional backing from private investors.
+Swedish energy innovator firm Elvy secures €500M to expand next-gen home power systems
+The round was financed by Scayl together with an undisclosed banking partner.
+Mollie acquires GoCardless for €1.1B to form €3B European payments group
+Dutch-based Mollie has acquired GoCardless, strengthening its position as a leader in European payments innovation.
+Subscribe to our newsletter
+Subscribe
+I agree my personal data will be stored and processed for online communication
+read more
+Join Vestbee
+Join the leading matchmaking platform for startups, VC funds, angels, accelerators and corporates
+Join Now
+Platform
+Startups
+VC Funds
+Accelerators
+Service Providers
+Community
+CEE VC Summit
+Resources
+Insights
+VC List
+LP List
+Events List
+CEE SaaS Index
+Perfect Pitch E-book
+Company
+Careers
+Terms Of Service
+Privacy Policy
+Cookies Policy
+Subscribe newsletter
+I agree my personal data will be stored and processed for online communication.
+Read more
+Follow us
+Linkedin
+office@vestbee.com
+media@vestbee.com
+© 2025 Vestbee. All rights reserved.
+The material presented via this website is for informational purposes only. Nothing in this website constitutes a solicitation for the purchase or sale of any financial product or service. Material presented on this website does not constitute a public offering of securities or investment management services in any jurisdiction. Investing in startup and early stage companies involves risks, including loss of capital, illiquidity, lack of dividends and dilution, and it should be done only as part of a diversified portfolio. The Investments presented in this website are suitable only for investors who are sufficiently sophisticated to understand these risks and make their own investment decisions.

@@ -1,0 +1,33 @@
+[[Language Code: fr]]
+
+Une bulle de l’intelligence artificielle ?
+Les formidables capitalisations des grandes sociétés de l’intelligence artificielle comme Nvidia galvanisent les Bourses, mais font également craindre la formation d’une bulle sur ce marché. Décryptage.
+Par
+Raphaël DIDIER
+12 Décembre 2025
+© Adobe Stock
+Incontournable sur le marché de l’IA, dont elle est le premier fournisseur de microprocesseurs, Nvidia bat tous les records : première société à dépasser, fin octobre 2025, 5 000 milliards de dollars de capitalisation boursière (+3 000 % en cinq ans), chiffre d’affaires au 3
+e
+trimestre de 57 milliards de dollars (+62 % sur un an glissant) et résultat net de 31,9 milliards de dollars (+65 % sur un an glissant) ! Bien que le patron de Nvidia, Jensen Huang, s’en défende en affirmant que la demande continue de croître, nombreux sont ceux qui s’interrogent néanmoins sur la signification réelle de telles valorisations. Serait-ce le signe d’une bulle sur le marché de l’IA comme le redoutent désormais ouvertement les gérants de fonds mondiaux et même de grands patrons comme Jeff Bezos (fondateur d’Amazon) ou Sam Altman (PDG d’OpenAI) ?
+Concentration du marché
+À rebours de la bulle Internet au tournant des années 2000, où le marché était constitué de nombreuses petites start-up, le marché de l’IA est concentré entre les mains de quelques grandes entreprises. Les investisseurs ont ainsi les yeux de Chimène pour les «
+sept magnifiques
+» — Meta, Amazon, Alphabet, Apple, Microsoft, Nvidia et Tesla —, ces sociétés qui pèsent très lourd sur les marchés financiers américains (30 % de l’indice S&P 500) et dont la valorisation semble progresser sans fin depuis deux ans… Le secteur de l’IA semble d’ailleurs avoir fonctionné, jusque-là, en vase clos industriel et financier, dans la mesure où le développement se fait surtout par prise de participations croisées et contrats pharaoniques entre les leaders du marché. Un choc, industriel ou financier, touchant l’une de ces sociétés, serait donc susceptible de provoquer des dégâts financiers d’une ampleur phénoménale.
+Toujours est-il que les investissements estampillés IA atteignent des montants formidables : Nvidia a ainsi annoncé investir jusqu’à 100 milliards de dollars dans OpenAI, Microsoft évoque 100 milliards dans ses propres outils, 400 milliards de dollars devraient être dépensés dans des centres de données par Google, Amazon, Microsoft et Meta, etc. Mais, alors que jusqu’à présent le financement se faisait essentiellement par fonds propres, un basculement vers l’endettement tend à s’opérer, ce qui pourrait fragiliser encore plus l’édifice en cas de coup de semonce dans le secteur.
+«
+Winner takes all
+»
+Pour l’heure, les revenus générés par les investissements dans l’IA demeurent modestes en regard des sommes englouties. C’est ce qui ressort du PER (
+Price Earning Ratio
+), qui rapporte le cours de l’action au bénéfice net par action (BNPA). Dans le secteur de l’IA, le PER avoisine les 25, valeur assez élevée pour un secteur encore en devenir qui, de surcroît, détourne les capitaux vers la seule intelligence artificielle, au détriment de tous les autres secteurs clés de l’économie.
+Certes, il est vrai que l’innovation bénéficie toujours au début d’une prime sur les marchés financiers et donc d’un PER élevé. Mais de nombreuses voix s’élèvent depuis peu pour réclamer le nettoyage des écuries d’Augias. Ainsi, Michael Burry, le célèbre investisseur qui avait connu son heure de gloire en pariant sur l’effondrement du marché immobilier et la crise des
+subprimes
+, a jeté un pavé dans la mare en affirmant que de nombreuses sociétés de l’IA étaient surévaluées en Bourse, accréditant l’idée d’une bulle. Bien entendu, il y a toujours de bonnes raisons de penser que cette fois c’est différent et que les marchés financiers ont appris de leurs erreurs/fautes passées. Pourtant, il faut bien se rendre à l’évidence : tant qu’il y a une musique qui vante les mérites de l’IA censée être bientôt omniprésente dans nos vies privées et professionnelles, les investisseurs dansent… même autour d’un volcan !
+Mais, à bien y regarder, si bulle il y a, elle n’est pas de la même nature que celle de l’Internet au tournant des années 2000. Les coûts pharaoniques d’investissement, d’infrastructure et R&D dans le secteur de l’IA rappellent davantage la bulle des chemins de fer, à la fin de la première moitié du XIXe siècle en France, mais aussi aux États-Unis et en Angleterre. En effet, la course à l’infrastructure liée à une innovation conduit des entreprises aux reins plus ou moins solides à se concurrencer à grand renfort d’investissements, afin de remporter la bataille de l’infrastructure et chemin faisant bénéficier d’énormes économies d’échelle dans un secteur organisé en réseau. C’est la célèbre loi du «
+winner takes all
+» (le gagnant rafle tout). Hélas, il faudra certainement attendre cinq, 10 ou 15 ans avant de savoir quelles infrastructures et quels algorithmes se seront finalement imposés. D’ici là, beaucoup d’investissements auront perdu de leur valeur et de leur utilité, nécessitant de réinjecter du capital pour rester dans la course, quitte à ne dégager que très peu de retours sur investissement (ROI), voire pas du tout.
+Bulle ou pas, l’IA est en train de bouleverser l’économie et nos vies ! Gageons que ce sera pour le meilleur…
+franc
+Categories:
+Actualités
+A la Une

@@ -1,0 +1,102 @@
+[[Language Code: en]]
+
+'A dangerous game to play': Are we really in an AI tech bubble and what happens if it bursts?
+By Jorge Branco
+11:15am Oct 17, 2025
+X
+Facebook
+Mail
+According to the valuations,
+the company behind ChatGPT
+is now worth more than what the entire state of Victoria produces in a year, and it's not far off NSW.
+Artificial intelligence, its builders say, has almost unlimited potential to radically transform – or maybe even destroy – the world.
+But more and more finance, business and tech experts watching the staggering firehose of money pouring into the sector are starting to question whether the multitrillion-dollar industry is one big bubble. And what happens if it bursts?
+READ MORE:
+Trump announces meeting with Putin after lengthy phone call
+If you believe the valuations, the company behind ChatGPT is now worth more than what the entire state of Victoria produces in a year, and it's not far off NSW.
+(AP)
+The Bank of England warned of an increasing risk of "a sharp market correction", Goldman Sachs CEO David Solomon said "a lot of capital" wouldn't deliver returns and the International Monetary Fund's chief economist, Pierre-Olivier Gourinchas, said after surging valuations and booming investments, "markets could reprice sharply".
+Using simpler words, Amazon founder Jeff Bezos called it "kind of an industrial bubble".
+Even Sam Altman, the head of ChatGPT maker OpenAI, asked directly if investors were "overexcited about AI", flat out said "yes".
+"When bubbles happen, smart people get overexcited about a kernel of truth," he told reporters at The Verge and some other tech publications in August.
+"If you look at most of the bubbles in history, like the tech bubble, there was a real thing. Tech was really important. The internet was a really big deal. People got overexcited."
+READ MORE:
+What La Niña declaration could mean for Australian weather
+Even Sam Altman, the head of ChatGPT maker OpenAI, asked directly if investors were "overexcited about AI", flat out said "yes".
+(AP)
+What even is a bubble?
+So, are they right? And what happens if the AI bubble bursts?
+Stanford Graduate School of Business Professor Anat Admati says the concept of a bubble is not well defined, and it's almost impossible to identify one in real time.
+"Stock valuation and timing stocks is very difficult because the stock reflects the entire future and all lots and lots of factors," she tells 9news.com.au.
+"So the notion that you're diagnosing a bubble as it's happening is often folly.
+"People form beliefs and decide to trade, and it's a very dangerous game to play for investors, for pundits, journalists like yourself."
+The OpenAI logo is seen on a mobile phone in front of a computer screen displaying output from ChatGPT.
+(AP)
+Oxford Economics lead economist Adam Slater sees "some symptoms of a bubble", including rapid growth in tech stock prices and the fact tech stocks now comprise about 40 per cent of the S&P 500 stock market tracking the 500 leading US companies.
+He also points to market valuations that appear "stretched" beyond their worth and "a general sense of extreme optimism in terms of the underlying technology, despite the enormous uncertainties around what this technology might ultimately yield".
+Some analysts suggest AI could lead to productivity gains not seen since Europe after World War II, while Massachusetts Institute of Technology economist Daron Acemoglu has predicted a 0.7 per cent gain in US productivity over a decade.
+"You've got this incredibly wide range of possibilities," Slater says.
+"Nobody really knows where it's going to land."
+READ MORE:
+Cancelling a gym membership? These are your consumer rights in Australia
+OpenAI isn't the only player in the AI game.
+(Getty)
+Is this the dotcom boom 2.0?
+The easy comparison, which even Altman and his Open AI chairman, Bret Taylor, have made, is with the dotcom boom, when the tech-heavy NASDAQ surged almost 600 per cent in the mid-to-late '90s before wiping off almost all of those games in about a year and a half.
+A swathe of start-ups were wiped out and even big hitters still around today such as Microsoft, Oracle and Intel took a battering on the markets.
+Admati says it's too hard to predict whether a potential AI bubble bursting would do anything more than correcting the price of some companies, much less when it might happen.
+A swathe of start-ups were wiped out and even big hitters still around today such as Microsoft, Oracle and Intel took a battering on the markets.
+(AP)
+"The internet bubble burst didn't change the entire world economy," she says.
+"It was a price correction in a relatively narrow sector."
+Taylor puts a positive on the comparison, saying you could argue people pouring money into internet stocks in 1999 were broadly right.
+"If you look at the internet bubble, a lot of people think about the flops, like Pets.com and Webvan," he tells The Verge.
+"Through the lens of the past 30 years, though, we've now gotten most of the largest companies in the world, including Amazon and Google, two of the largest companies in the world."
+Taylor argues people pouring money into internet stocks in 1999 were broadly right.
+(AP Photo/Richard Drew FILE)
+'It's the fear of missing out'
+OpenAI is the most striking example of AI investment because it's come from nothing to be one of the world's most hyped companies  in a few years based solely on the promise of its tech.
+It is now valued at roughly $US500 billion ($771.9 billion), not too far below the GDP of Austria ($804.1 billion) or the 2023-24 GSP (gross state product) of NSW ($821 billion).
+But the big boys are also shovelling money into their large language models and other AI research.
+Google is all-in on AI across its phones and even search and just this week announced another $US15 billion investment in an AI data hub, Amazon looks set to spend $US100 billion ($154.5 billion) on the technology this year, Apple boss Tim Cook told employees the AI revolution was "as big or bigger" as the internet, smartphones, cloud computing and apps.
+Google's Gemini AI assistant.
+(Google)
+Chipmaker NVIDIA's surge to become the biggest company in the world by market capitalisation – overtaking even Apple – was so dramatic that it spurred a wave of articles about how the name is pronounced (en-VID-eeyah, by the way).
+It was driven by a ravenous demand for the company's high-end GPUs, prized above all else in battle for the massive amounts of computing power it takes to sustain these huge companies' AI computing demands.
+So when it invested $US100 billion in OpenAI, which, as well as being one of its main customers, has a 10 per cent stake in chip rival AMD, eyebrows were raised at this "circular" financing.
+AMD and OpenAI have agreed to a multibillion-dollar deal.
+(AP)
+"A small group of companies is securing most of the major deals. News about multibillion-dollar investments from familiar companies such as OpenAI, Nvidia, CoreWeave, Microsoft, Google, and a few others is reported almost daily," Yale School of Management leadership expert Professor Jeffrey A Sonnenfeld and senior research fellow Stephen Henriques wrote in an opinion piece called This is how the AI bubble bursts.
+"Should the bold promises of AI fall short, the dependence among these major AI players could trigger a devastating chain reaction, causing a widespread collapse similar to the 2008 Great Financial Crisis."
+Henriques tells
+9news.com.au
+the risks are likely closer to those of the dotcom boom, where there is promise that "will take a lot longer to materialise than people expect".
+"It's the fear of missing out," Sonnenfeld says.
+"Everybody you know thinks that the costs of missing it are too high, enterprise wise and career wise, to look like you're an anachronism."
+Microsoft is a major investor in OpenAI.
+(AP)
+In their article, the researchers point out that in less than three years, OpenAI has "gone from a parlour game to a pillar of the global economy".
+"After pillar, you wonder if you're going to wind up with a pile of rubble, and how to then rebuild out of the shakeout, where you see a lot of damage and carnage done," Sonnenfeld tells 9news.com.au.
+The upside
+Bezos argues the AI boom will be good for the world even if the bubble bursts, describing it as  industrial, rather than financial or banking.
+"The ones that are industrial are not nearly as bad. It could even be good because when the dust settles and you see who are the winners, society benefits from those inventions," Bezos said at a recent tech conference in Italy.
+He compared it to a previous biotech bubble in the 1990s that resulted in new life-saving drugs.
+"Every company gets funded, the good ideas and the bad ideas. And investors have a hard time in the middle of this excitement distinguishing between the good and bad ideas and so that's also probably happening today," he said.
+Altman last month predicted people would "make some dumb capital allocations", resulting in short-term ups and downs.
+But he was confident it would drive "a new wave of unprecedented economic growth", scientific breakthroughs, improvements to quality of life and "new ways to express creativity".
+The information provided on this website is general in nature only and does not constitute personal financial advice. The information has been prepared without taking into account your personal objectives, financial situation or needs. Before acting on any information on this website you should consider the appropriateness of the information having regard to your objectives, financial situation and needs.
+- Reported with Associated Press and Reuters
+﻿
+Continue reading
+Technology
+Artificial Intelligence
+finance
+World
+USA
+OpenAI
+Explainer
+CONTACT US
+Send your stories to
+contact@9news.com.au
+Property News:
+Australia's most popular suburbs in every capital city.
