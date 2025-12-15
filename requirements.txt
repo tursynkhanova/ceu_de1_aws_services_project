@@ -4,6 +4,7 @@ boto3
 # Data handling
 pandas
 numpy
+tabulate
 
 # Web scraping
 requests
